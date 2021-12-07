@@ -27,6 +27,7 @@ A collection of books that I have readied
 - 📘 [Filary Ziemi (tom 1) - Ken Follet](https://lubimyczytac.pl/ksiazka/4806746/filary-ziemi)
   - [The Pillars of the Earth (Kingsbridge Book 1)](https://www.amazon.com/gp/product/B003TO5GXU) [EN]
 - 📘 [Mózg rządzi - Kaja Nordengen](https://lubimyczytac.pl/ksiazka/4815321/mozg-rzadzi-twoj-niezastapiony-narzad)
+- 📘 [Mózg na detoksie - David Perlmutter](https://lubimyczytac.pl/ksiazka/4967943/mozg-na-detoksie-oczysc-swoj-umysl-by-sprawniej-myslec-wzmocnic-relacje-i-znalezc-szczescie)
 - 📘 [Krótka historia czasu. Od Wielkiego Wybuchu do czarnych dziur -
   Stephen Hawking](https://lubimyczytac.pl/ksiazka/4808886/krotka-historia-czasu-od-wielkiego-wybuchu-do-czarnych-dziur)
 - 📘 [Najbogatszy człowiek w Babilonie - George S. Clason](https://lubimyczytac.pl/ksiazka/4377439/najbogatszy-czlowiek-w-babilonie)
