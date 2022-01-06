@@ -6,3 +6,7 @@ Run the following command in the root folder
 Used library:
 
 - [Single-Page Markdown Website](https://yuanqing.github.io/single-page-markdown-website)
+
+### Publish to GitHub Pages
+
+`npx --yes -- gh-pages --dist page`
