@@ -13,6 +13,7 @@ A collection of books that I have readied
 
 - 💻 [Implementing Domain-Driven Design - Vernon Vaughn](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/)
 - 💹 [Tools of Titans - Timothy Ferriss](https://www.amazon.com/gp/product/B01HSMRWNU)
+- 💹 [Atomowe nawyki - James Clear](https://lubimyczytac.pl/ksiazka/4898707/atomowe-nawyki-drobne-zmiany-niezwykle-efekty)
 - 💹 [Jak zdobyć przyjaciół i zjednać sobie ludzi - Dale Carnegie](https://lubimyczytac.pl/ksiazka/50522/jak-zdobyc-przyjaciol-i-zjednac-sobie-ludzi)
   - [How To Win Friends and Influence People](https://www.amazon.com/gp/product/B003WEAI4E) [EN]
 - 💹 [Metoda czarnej skrzynki - Matthew Syed](https://lubimyczytac.pl/ksiazka/4964250/metoda-czarnej-skrzynki-zaskakujaca-prawda-o-nauce-na-bledach)
