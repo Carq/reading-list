@@ -5,9 +5,9 @@ A collection of books that I have readied
 ### Legend
 
 💻- technical  
- 💹 - self-development  
- 🐲- fantasy  
- 📘- other
+💹 - self-development  
+🐲- fantasy  
+📘- other
 
 ## 2021
 
