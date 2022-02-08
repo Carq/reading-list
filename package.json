@@ -1,13 +1,13 @@
 {
   "single-page-markdown-website": {
     "baseUrl": "https://carq.github.io/reading-list/",
-    "title": "Carq's Readining List",
+    "title": "Carq's Reading List",
     "description": "A collection of books that I have readied",
     "toc": false,
     "sections": false,
     "links": [
       {
-        "text": "GitHub",
+        "text": "Carq GitHub",
         "url": "https://github.com/Carq"
       }
     ],

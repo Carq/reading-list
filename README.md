@@ -2,12 +2,9 @@
 
 A collection of books that I have readied
 
-### Legend
+## 2022
 
-💻- technical  
-💹 - self-development  
-🐲- fantasy  
-📘- other
+- 📘 [Brain Maker. Zdrowa Głowa. - David Perlmutter](https://lubimyczytac.pl/ksiazka/4843247/brain-maker-zdrowa-glowa-jak-bakterie-jelitowe-chronia-mozg)
 
 ## 2021
 
@@ -32,3 +29,10 @@ A collection of books that I have readied
 - 📘 [Krótka historia czasu. Od Wielkiego Wybuchu do czarnych dziur -
   Stephen Hawking](https://lubimyczytac.pl/ksiazka/4808886/krotka-historia-czasu-od-wielkiego-wybuchu-do-czarnych-dziur)
 - 📘 [Najbogatszy człowiek w Babilonie - George S. Clason](https://lubimyczytac.pl/ksiazka/4377439/najbogatszy-czlowiek-w-babilonie)
+
+### Legend
+
+💻- technical  
+💹- self-development  
+🐲- fantasy  
+📘- other
