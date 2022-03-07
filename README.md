@@ -4,6 +4,8 @@ A collection of books that I have readied
 
 ## 2022
 
+- 📘 [Księga jesiennych demonów - Jarosław Grzędowicz](https://lubimyczytac.pl/ksiazka/222814/ksiega-jesiennych-demonow)
+- 🐲 [Migawka - Brandon Sanderson](https://lubimyczytac.pl/ksiazka/4898866/migawka)
 - 📘 [Brain Maker. Zdrowa Głowa. - David Perlmutter](https://lubimyczytac.pl/ksiazka/4843247/brain-maker-zdrowa-glowa-jak-bakterie-jelitowe-chronia-mozg)
 
 ## 2021
