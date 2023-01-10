@@ -2,11 +2,30 @@
 
 A collection of books that I have readied
 
+## 2023
+
+- 🐲 [Virion. Adept - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4873571/virion-adept)
+
 ## 2022
 
+- 💹 [Psychologia pieniędzy. Ponadczasowe lekcje o bogactwie, chciwości i szczęściu - Morgan Housel](https://lubimyczytac.pl/ksiazka/4976009/psychologia-pieniedzy-ponadczasowe-lekcje-o-bogactwie-chciwosci-i-szczesciu)
+- 💹 [7 nawyków skutecznego działania - Stephen R. Covey](https://lubimyczytac.pl/ksiazka/455/7-nawykow-skutecznego-dzialania)
+- 💹 [Antykruchość. Jak żyć w świecie, którego nie rozumiemy - Nassim Nicholas Taleb](https://lubimyczytac.pl/ksiazka/4925207/antykruchosc-jak-zyc-w-swiecie-ktorego-nie-rozumiemy)
+- 💹 [Finansowy Ninja - Michał Szafrański](https://lubimyczytac.pl/ksiazka/314304/finansowy-ninja)
+- 📘 [Karbala - Piotr Głuchowski, Marcin Górka](https://lubimyczytac.pl/ksiazka/264497/karbala)
+- 💹 [12 życiowych zasad. Antidotum na chaos - Jordan Peterson](https://lubimyczytac.pl/ksiazka/4855858/12-zyciowych-zasad-antidotum-na-chaos)
+- 💹 [Brain Maker. Zdrowa Głowa. - David Perlmutter](https://lubimyczytac.pl/ksiazka/4843247/brain-maker-zdrowa-glowa-jak-bakterie-jelitowe-chronia-mozg)
+- 💹 [Mózg chce więcej. Dopamina. Naturalny dopalacz - Daniel Z. Lieberman, Michael E. Long](https://lubimyczytac.pl/ksiazka/4882912/mozg-chce-wiecej-dopamina-naturalny-dopalacz)
+- 💹 [Życiowe Aikido - Paweł Bernaś, Paweł Olesiak](https://lubimyczytac.pl/ksiazka/148059/zyciowe-aikido)
+- 📘 [Jedz jak geniusz - Max Lugavere](https://lubimyczytac.pl/ksiazka/4989334/jedz-jak-geniusz)
+- 🐲 [Dawca Przysięgi. Część 2 - Brandon Sanderson](https://lubimyczytac.pl/ksiazka/4919077/dawca-przysiegi-czesc-2)
+- 🐲 [Virion. Wyrocznia - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4801922/virion-wyrocznia)
+- 🐲 [Virion. Obława - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4852466/virion-oblawa)
+- 🐲 [Virion. Zamek - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4950523/virion-zamek)
+- 🐲 [Virion. Pustynia - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4994222/virion-pustynia)
+- 🐲 [Diuna - Frank Herbert](https://lubimyczytac.pl/ksiazka/4942534/diuna)
 - 📘 [Księga jesiennych demonów - Jarosław Grzędowicz](https://lubimyczytac.pl/ksiazka/222814/ksiega-jesiennych-demonow)
 - 🐲 [Migawka - Brandon Sanderson](https://lubimyczytac.pl/ksiazka/4898866/migawka)
-- 📘 [Brain Maker. Zdrowa Głowa. - David Perlmutter](https://lubimyczytac.pl/ksiazka/4843247/brain-maker-zdrowa-glowa-jak-bakterie-jelitowe-chronia-mozg)
 
 ## 2021
 
