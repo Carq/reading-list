@@ -4,6 +4,13 @@ A collection of books that I have readied
 
 ## 2023
 
+- 💹 [Dogadaj się. Sztuka codziennych negocjacji - Michael Yardney](https://lubimyczytac.pl/ksiazka/4999337/dogadaj-sie-sztuka-codziennych-negocjacji)
+- 📘 [Stacja arktyczna „Zebra” - Alistair MacLean](https://lubimyczytac.pl/ksiazka/51083/stacja-arktyczna-zebra)
+- 🐲 [Rytm Wojny. Część 1 - Brandon Sanderson](https://lubimyczytac.pl/ksiazka/4929182/rytm-wojny-czesc-1)
+- 💹 [Neurohacking - Karol Wyszomirski](https://lubimyczytac.pl/ksiazka/5036877/neurohacking)
+- 🐲 [Virion. Szermierz Natchniony 3. Legion - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/5043303/virion-szermierz-natchniony-3-legion)
+- 🐲 [Pan Lodowego Ogrodu - księga IV - Jarosław Grzędowicz](https://lubimyczytac.pl/ksiazka/4988342/pan-lodowego-ogrodu---ksiega-iv)
+- 📘 [Dlaczego śpimy. Odkrywanie potęgi snu i marzeń sennych - Matthew Walker](https://lubimyczytac.pl/ksiazka/4873848/dlaczego-spimy-odkrywanie-potegi-snu-i-marzen-sennych)
 - 🐲 [Virion. Adept - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4873571/virion-adept)
 
 ## 2022
@@ -19,7 +26,7 @@ A collection of books that I have readied
 - 💹 [Życiowe Aikido - Paweł Bernaś, Paweł Olesiak](https://lubimyczytac.pl/ksiazka/148059/zyciowe-aikido)
 - 📘 [Jedz jak geniusz - Max Lugavere](https://lubimyczytac.pl/ksiazka/4989334/jedz-jak-geniusz)
 - 🐲 [Dawca Przysięgi. Część 2 - Brandon Sanderson](https://lubimyczytac.pl/ksiazka/4919077/dawca-przysiegi-czesc-2)
-- 🐲 [Virion. Wyrocznia - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4801922/virion-wyrocznia)
+- 🐲 [Virion. Wyrocznia ](https://lubimyczytac.pl/ksiazka/4801922/virion-wyrocznia)
 - 🐲 [Virion. Obława - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4852466/virion-oblawa)
 - 🐲 [Virion. Zamek - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4950523/virion-zamek)
 - 🐲 [Virion. Pustynia - Andrzej Ziemiański](https://lubimyczytac.pl/ksiazka/4994222/virion-pustynia)
